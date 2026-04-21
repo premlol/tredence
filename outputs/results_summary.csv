@@ -1,0 +1,4 @@
+lambda,test_acc,soft_sparsity,hard_sparsity,active_params,total_params
+0.0001,86.45,0.0,0.0,4833610,4833610
+0.001,86.63,0.0,0.0,4833610,4833610
+0.01,72.69,99.835,99.835,2606504,4833610
