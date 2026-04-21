@@ -19,6 +19,12 @@ env/
 # CIFAR-10 raw data (auto-downloaded)
 data/
 
+# Compiled Python cache
+src/__pycache__/
+
+# Duplicate project folder (stale)
+nn2 pruner/
+
 # IDE
 .vscode/
 .idea/
